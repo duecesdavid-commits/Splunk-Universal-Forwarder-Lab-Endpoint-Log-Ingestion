@@ -80,7 +80,7 @@ No Event ID 4625 appeared in Splunk searches during testing.
 
 ## Screenshots (Evidence)
 
-All screenshots are included in the repository (image1.png to image12.png):
+All screenshots are included in the attached PDF file (`SPLUNK_IMPLEMENTATION.pdf`):
 
 - Splunk Web UI and search results
 - inputs.conf configuration
@@ -90,7 +90,7 @@ All screenshots are included in the repository (image1.png to image12.png):
 - Splunk searches showing ingested Windows & Linux events
 - Event Viewer confirming no 4625 events
 
-(Upload them to a `/screenshots/` folder for better organization, then link like: `![Splunk Search Results](screenshots/image6.png)`)
+(Refer to the PDF for full-resolution images and detailed context.)
 
 ## Key Learnings
 
@@ -108,3 +108,4 @@ All screenshots are included in the repository (image1.png to image12.png):
 - Add modular inputs or scripted inputs for more sources
 
 This lab serves as hands-on proof of concept for centralized log management in a SOC environment.
+
